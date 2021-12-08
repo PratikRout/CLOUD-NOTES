@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "A web app to store all the articles/blog written by the user.",
   "main": "server.js",
+  "engines": {
+    "npm": ">=6.0.0",
+    "node": ">=10.0.0"
+  },
   "dependencies": {
     "abab": "^2.0.5",
     "abbrev": "^1.1.1",
